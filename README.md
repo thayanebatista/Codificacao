@@ -1,5 +1,5 @@
-# Codificacao
-     Codificação, bit, key, binario.
+# Compactação usando Huffman
+     Huffman, codificação, bit, key, binario. 
 # **INFOS**    
 #### Academico: _Thayane Batista RA159049_
 #### Curso: _Engenharia de Computação_
